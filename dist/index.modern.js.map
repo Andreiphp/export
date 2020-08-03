@@ -1,0 +1,1 @@
+{"version":3,"file":"index.modern.js","sources":["../src/components/ExportComponent.tsx"],"sourcesContent":["import React from \"react\";\n\nconst ExportComponent = () => {\n\n  return <h1>Export</h1>\n}\nexport default ExportComponent;\n"],"names":["ExportComponent","React"],"mappings":";;AAEA,IAAMA,eAAe,GAAG,SAAlBA,eAAkB;AAEtB,SAAOC,mBAAA,KAAA,MAAA,UAAA,CAAP;AACD,CAHD;;;;"}
